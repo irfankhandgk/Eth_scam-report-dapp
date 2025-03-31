@@ -1,2 +1,2 @@
-# Eth_scam-report-dapp
-This is file to catch scammer
+# Eth-scam-report-dapp
+This is the file to catch the scammers
